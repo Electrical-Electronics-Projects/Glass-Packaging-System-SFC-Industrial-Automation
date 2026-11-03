@@ -324,15 +324,3 @@ directs the assembly toward the exit path.
     supply.
 -   The emergency push button is normally closed and is used to stop the
     process during an emergency.
-
-## Documentation Scope
-
-This README is based on the project report supplied with the repository.
-The report documents the system objective, sensor and actuator
-definitions, operator controls, two synchronization SFCs, and the
-general production requirements.
-
-It does **not** specify the PLC model, programming software,
-communication protocols, complete SFC transition logic, wiring diagrams,
-or detailed commissioning procedure. Those details should be added here
-if they are available in the project source files.
