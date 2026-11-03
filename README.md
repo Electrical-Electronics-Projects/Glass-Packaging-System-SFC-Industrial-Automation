@@ -239,41 +239,22 @@ describes only the documented process behavior.
   -----------------------------------------------------------------------
 
 ## Operator Control Panel
-
 ### Inputs
 
-  -----------------------------------------------------------------------
-  Control                 Type                    Description
-  ----------------------- ----------------------- -----------------------
-  `Start`                 Normally open (NO) push Starts the process.
-                          button                  
-
-  `Init`                  Normally open (NO) push Requests system
-                          button                  initialization.
-
-  `Emergency`             Normally closed (NC)    Stops the process when
-                          push button             an emergency condition
-                                                  occurs.
-  -----------------------------------------------------------------------
+| Control | Type | Description |
+|---|---|---|
+| `Start` | Normally open (NO) push button | Starts the process. |
+| `Init` | Normally open (NO) push button | Requests system initialization. |
+| `Emergency` | Normally closed (NC) push button | Stops the process when an emergency condition occurs. |
 
 ### Indicators
 
-  -----------------------------------------------------------------------
-  Indicator                           Description
-  ----------------------------------- -----------------------------------
-  `Run Lamp`                          Illuminated while the process is
-                                      running.
-
-  `Empty Lamp`                        Illuminated when material is empty
-                                      (metal sheets or protective
-                                      sheets).
-
-  `Stop Lamp`                         Illuminated when an emergency
-                                      condition is present.
-
-  `Init Lamp`                         Illuminated when initialization has
-                                      been completed.
-  -----------------------------------------------------------------------
+| Indicator | Description |
+|---|---|
+| `Run Lamp` | Illuminated while the process is running. |
+| `Empty Lamp` | Illuminated when material is empty (metal sheets or protective sheets). |
+| `Stop Lamp` | Illuminated when an emergency condition is present. |
+| `Init Lamp` | Illuminated when initialization has been completed. |
 
 ## Sequential Function Charts (SFCs)
 
