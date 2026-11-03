@@ -5,6 +5,12 @@ applying a thin metal sheet to the upper surface, with conveyor-based
 material handling, pneumatic actuation, vacuum gripping, and rotary path
 selection.
 
+This project was developed by:
+- Lawrence Abou Karroum
+- Ahmad Mansour
+
+As part of the final project for the Industrial Automation course.
+
 ## Project Overview
 
 This project was developed for the **Industrial Automation Lab** at the
