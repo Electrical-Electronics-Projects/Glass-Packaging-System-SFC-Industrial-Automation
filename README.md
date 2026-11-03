@@ -10,6 +10,7 @@ This project was developed by:
 - Ahmad Mansour
 
 As part of the final project for the Industrial Automation course.
+**Submission Date:** December 16, 2024
 
 ## Project Overview
 
