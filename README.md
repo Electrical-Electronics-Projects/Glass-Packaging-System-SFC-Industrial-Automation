@@ -11,6 +11,14 @@ This project was developed by:
 
 As part of the final project for the Industrial Automation course.
 **Submission Date:** December 16, 2024
+## Software and Technologies
+
+The project was designed and implemented using the following software and automation technologies:
+
+| Software / Technology | Purpose |
+|---|---|
+| Unity | Used as the software environment for developing and simulating the industrial automation system. |
+| Schneider Electric – SFC (Sequential Function Chart) | Used to design and implement the sequential control logic, including the production sequence and synchronization mechanisms. |
 
 ## Project Overview
 
@@ -163,6 +171,7 @@ describes only the documented process behavior.
   `Exitt`                 Exit sensor             Detects when an
                                                   assembly has left the
                                                   work area.
+  
   -----------------------------------------------------------------------
 
 ## Actuators and Outputs
@@ -316,20 +325,6 @@ directs the assembly toward the exit path.
 -   The emergency push button is normally closed and is used to stop the
     process during an emergency.
 
-## Project Information
-
-  Item                       Details
-  -------------------------- -----------------------------------------
-  Project                    Industrial Automation Final Project
-  Course/Lab                 Industrial Automation Lab
-  Institution                University of Balamand
-  Faculty                    Issam Fares Faculty of Technology
-  Department                 Department of Mechatronics
-  Campus                     Souk El Gharb Campus
-  Instructor                 Dr. Georgina Ghazi
-  Contributors               Ahmad Mansour and Lawrence Abou Karroum
-  Original submission date   December 16, 2024
-
 ## Documentation Scope
 
 This README is based on the project report supplied with the repository.
@@ -341,19 +336,3 @@ It does **not** specify the PLC model, programming software,
 communication protocols, complete SFC transition logic, wiring diagrams,
 or detailed commissioning procedure. Those details should be added here
 if they are available in the project source files.
-
-## Repository Contents
-
-Add or update this section to match the files included in the GitHub
-repository. For example:
-
-``` text
-.
-├── README.md
-├── [PLC project files]
-├── [SFC diagrams]
-└── [Supporting documentation]
-```
-
-> Replace the bracketed entries with the actual filenames and folders in
-> the repository.
