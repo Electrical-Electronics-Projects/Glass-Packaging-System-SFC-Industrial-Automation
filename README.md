@@ -226,6 +226,7 @@ describes only the documented process behavior.
 
   `R2CCW`                 Rotator 2               Rotates Rotator 2
                           counterclockwise        counterclockwise.
+  
   -----------------------------------------------------------------------
 
 ## Operator Control Panel
