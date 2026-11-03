@@ -74,7 +74,7 @@ describes only the documented process behavior.
 ## Sensors and Inputs
 
 ## System Layout
-![Industrial Automation System Layout](images/details-image.png)
+![Industrial Automation System Layout](details-image.png)
 
   -----------------------------------------------------------------------
   Symbol                  Name                    Function
