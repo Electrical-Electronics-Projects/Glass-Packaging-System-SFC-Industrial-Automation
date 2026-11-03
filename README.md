@@ -73,7 +73,6 @@ describes only the documented process behavior.
 
 ## Sensors and Inputs
 
-## System Layout
 ![Industrial Automation System Layout](details-image.png)
 
   -----------------------------------------------------------------------
