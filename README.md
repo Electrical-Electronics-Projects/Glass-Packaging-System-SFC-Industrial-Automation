@@ -9,7 +9,7 @@ An industrial automation project designed to package glass assemblies by applyin
 | Project | Industrial Automation – Glass Packaging System |
 | Course/Lab | Industrial Automation Lab |
 | Developers | Lawrence Abou Karroum and Ahmad Mansour |
-| Simulation Software | Unity |
+| Simulation Software | Unity Pro|
 | Control Programming | Schneider Electric – SFC |
 | Submission Date | December 16, 2024 |
 
